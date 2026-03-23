@@ -1,0 +1,21 @@
+# OpenClaw Data and Runtime
+logs/
+credentials/
+delivery-queue/
+devices/
+memory/
+workspace/
+workspace-language/
+cron/
+canvas/
+completions/
+identity/
+discord/
+telegram/
+update-check.json
+gws-auth.json
+.env
+
+# If you prefer to track bak files, you can remove this, but Git provides its own history.
+# We will track them if you specifically requested it, but it's redundant with Git.
+# *.bak*
