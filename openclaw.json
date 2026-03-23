@@ -13,8 +13,7 @@
     "profiles": {
       "google:default": {
         "provider": "google",
-        "mode": "api_key",
-        "apiKey": "AIzaSyB_Gy-pdTS4g9KaaeiG3oxWOzGk9aePUFg"
+        "mode": "api_key"
       },
       "google:manual": {
         "provider": "google",
